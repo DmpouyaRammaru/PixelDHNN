@@ -16,4 +16,4 @@ This research is to apply the Dissipative Hamiltonian Neural Networks to the rea
 * Scipy
 
 This project is witten in Python 3.7.16
-for more details, please see [requirements.txt](.requirements.txt)
+for more details, please see [requirements.txt](./requirements.txt)
