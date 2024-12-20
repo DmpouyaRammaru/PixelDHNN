@@ -2,8 +2,7 @@
 Rammaru Dempoya
 
 This repository and code are based on the below paper.
-
-This repository and code are follows the below paper.  
+ 
 * HNN by S.Greydanus (https://github.com/greydanus/hamiltonian-nn)
 * DHNN by A.Sosanya (https://github.com/DrewSosa/dissipative_hnns)
 
